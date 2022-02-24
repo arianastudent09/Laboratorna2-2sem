@@ -1,0 +1,7 @@
+C:\Users\Алло\Documents\visual studio projects\Laboratorna2.2\task3\bin\Debug\task3.exe.config
+C:\Users\Алло\Documents\visual studio projects\Laboratorna2.2\task3\bin\Debug\task3.exe
+C:\Users\Алло\Documents\visual studio projects\Laboratorna2.2\task3\bin\Debug\task3.pdb
+C:\Users\Алло\Documents\visual studio projects\Laboratorna2.2\task3\obj\Debug\task3.csprojAssemblyReference.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna2.2\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna2.2\task3\obj\Debug\task3.exe
+C:\Users\Алло\Documents\visual studio projects\Laboratorna2.2\task3\obj\Debug\task3.pdb
